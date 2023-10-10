@@ -6,10 +6,11 @@ onclick="window.open(this.href, 'new', 'width=1280,height=720'); return false;"
 <div class="arii-button">
   <div class="flex-container">
     <div class="wrapper">
-      <img src="https://uploads-ssl.webflow.com/646e756c4526f6fa246bdca4/6512fe2d457e6979d96becd4_chat-icon.png" alt="chat bubble" width="25px" />
+      <img src="https://uploads-ssl.webflow.com/646e756c4526f6fa246bdca4/6525a4bfcbde82f3e02b3ed9_Midtownlogo_White-icon.png" alt="Midtown Logo" width="60px" />
     </div>
     <div class="wrapper">
-      <p>Digital Guest Experience</p>
+      <p>Digital Guest</p>
+      <p>Experience</p>
     </div>
   </div>
 </div>
