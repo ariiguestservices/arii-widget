@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://db.onlinewebfonts.com/c/508fb4f19c40b7c6a170913ad9a5de34?family=Cera+GR+Medium");
 
 #arii {
   position: fixed;
@@ -9,7 +9,7 @@
   background: #e7c7af;
   padding: 3px;
   border-radius: 25px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Cera GR Medium", sans-serif;
 }
 
 .arii-button {
@@ -32,5 +32,4 @@
 
 .wrapper > p {
   margin: 0px;
-  font-weight: bold;
 }
