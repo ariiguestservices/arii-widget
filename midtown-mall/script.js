@@ -26,7 +26,6 @@ const iframeContainerDiv = `<div class="iframe-container hide">
   src="https://wecare.helloarii.com/e/midtowndemo"
   width="100%"
   height="100%"
-  sandbox="allow-popup"
   frameborder="0"></iframe>
 </div>`;
 
