@@ -48,6 +48,7 @@
   overflow: hidden;
   border: 1px solid black;
   opacity: 0;
+  z-index: 10;
 }
 
 .iframe-c-top-bar > img {
