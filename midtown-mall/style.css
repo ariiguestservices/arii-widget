@@ -9,8 +9,7 @@
   background: #e7c7af;
   padding: 3px;
   border-radius: 25px;
-  font-family: "Roboto", sans-serif;
-  cursor: pointer;
+  font-family: "Cera GR Medium", sans-serif;
 }
 
 .arii-button {
@@ -34,57 +33,4 @@
 .wrapper > p {
   margin: 0px;
   font-weight: bold;
-}
-
-.iframe-container {
-  position: fixed;
-  bottom: 100px;
-  right: 10px;
-  background-color: #fafafa;
-  width: 360px;
-  height: 50vh;
-  max-height: 650px;
-  border-radius: 20px;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.13);
-  overflow: hidden;
-  border: 1px solid black;
-  opacity: 0;
-  z-index: 10;
-}
-
-.iframe-c-top-bar > img {
-  width: 20px;
-  cursor: pointer;
-}
-
-.iframe-c-top-bar {
-  padding: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.hide {
-  display: none;
-}
-
-.show-iframe {
-  opacity: 1;
-  transition: all 500ms ease-in-out;
-}
-
-.maximize-iframe {
-  width: 60vw;
-  height: 60vh;
-}
-
-@media screen and (max-width: 600px) {
-  .iframe-container {
-    width: 94vw;
-    height: 60vh;
-  }
-
-  #maximize {
-    display: none;
-  }
 }
