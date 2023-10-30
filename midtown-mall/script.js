@@ -1,6 +1,6 @@
 const widget = `<a
 id="arii"
-href="https://wecare.helloarii.com/e/midtowndemo"
+href="https://wecare.helloarii.com/e/midtown-website"
 onclick="window.open(this.href, 'new', 'width=1280,height=720'); return false;"
 >
 <div class="arii-button">
