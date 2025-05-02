@@ -10,6 +10,7 @@ onclick="window.open(this.href, 'new', 'width=1280,height=720'); return false;"
     </div>
     <div class="wrapper">
       <p>Discover The System</p>
+    </div>
   </div>
 </div>
 </a>`;

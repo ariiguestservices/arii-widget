@@ -10,6 +10,7 @@
   padding: 3px;
   border-radius: 25px;
   font-family: "Roboto", sans-serif;
+  z-index: 9999;
 }
 
 .arii-button {
